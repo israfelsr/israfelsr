@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my MSc. of Electrical Engineering in Machine Vision and AI.
-- ⚡ Somethings I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 
+- ⚡ Some things I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 
 
 You can reach me at:
 
