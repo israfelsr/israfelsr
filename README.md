@@ -1,12 +1,12 @@
-### Hi there, I'm Israfel!
+### Hi there, I'm Isra!
 
 <!--
 **israfelsr/israfelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my MSc. of Electrical Engineering.
-- ⚡ Fun fact: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 
+- 🔭 I’m currently working on my MSc. of Electrical Engineering in Machine Vision and AI.
+- ⚡ Somethings I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 
 
 You can reach me at:
 
