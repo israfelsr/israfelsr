@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 Ongoing Projects:
 - Vehicle re-Identification
 - 3D shape prediction from monocular input
+- Machine Vision mini project on CNNs and GANs
 
 You can reach me at:
 
