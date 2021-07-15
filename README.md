@@ -5,8 +5,11 @@
 Here are some ideas to get you started:
 -->
 
+- 📚 I'm interested in reinforcement learning and computer vision. Particularly at Visual Navigation for reinforcement learning agents.
 - 🔭 I’m currently working on my MSc. of Electrical Engineering in Machine Vision and AI.
-- ⚡ Some things I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 
+- ⚡ Some things I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 🚴🏽‍♂️
+
+I'm doing an internship at Excelerate in Copenhaguen. I'm using NLP models for summarization.
 
 Ongoing Projects:
 - [Vehicle re-Identification](https://github.com/israfelsr/vehicle-re-identification)
