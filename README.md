@@ -9,9 +9,8 @@ Here are some ideas to get you started:
 - ⚡ Some things I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 
 
 Ongoing Projects:
-- Vehicle re-Identification
+- [Vehicle re-Identification](https://github.com/israfelsr/vehicle-re-identification)
 - Data Augmentation and Style Transfer with GANs
-- 3D shape prediction from monocular input
 
 You can reach me at:
 
