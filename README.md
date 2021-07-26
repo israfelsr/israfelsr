@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my MSc. of Electrical Engineering in Machine Vision and AI.
 - ⚡ Some things I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 🚴🏽‍♂️
 
-I'm doing an internship at Excelerate in Copenhaguen. I'm using NLP models for summarization.
+I'm doing an internship at Excelerate in Copenhaguen. I'm developing an end-to-end NLP project for summarization.
+- [Carrer Summarizarization]()
 
 Ongoing Projects:
 - [Vehicle re-Identification](https://github.com/israfelsr/vehicle-re-identification)
