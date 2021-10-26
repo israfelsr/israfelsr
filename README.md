@@ -18,7 +18,7 @@ Ongoing Projects:
 
 You can reach me at:
 
-[<img align="left" alt="IsrafelSalazar | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />](https://twitter.com/IsrafelSalazar)
+[<img align="left" alt="IsrafelSalazar | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384017.png" />](https://twitter.com/IsrafelSalazar)
 [<img align="left" alt="http://israfelsr.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://israfelsr.github.io/)
 [<img align="left" alt="IsrafelSalazar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/israfelsalazar/)
 
