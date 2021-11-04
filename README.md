@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Some things I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 🚴🏽‍♂️
 
 I'm doing an internship at Excelerate in Copenhaguen. I'm developing an end-to-end NLP project for summarization.
-- [Carrer Summarizarization]()
+- [Carrer Summarizarization](https://github.com/israfelsr/course-summarization)
 
 Ongoing Projects:
 - [Vehicle re-Identification](https://github.com/israfelsr/vehicle-re-identification)
