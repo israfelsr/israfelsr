@@ -5,15 +5,19 @@
 Here are some ideas to get you started:
 -->
 
-- 📚 I'm interested in reinforcement learning and computer vision. Particularly at Visual Navigation for reinforcement learning agents.
-- 🔭 I’m currently working on my MSc. of Electrical Engineering in Machine Vision and AI.
-- ⚡ Some things I like: 📚 🏊‍ 🏃‍ 🛩 🤖 🧠 🚴🏽‍♂️
+- 📚 I'm interested in reinforcement learning and computer vision. Particularly in their application for motion learning.
+- 🧬 I'm also interested in machine learning applications in biology.
+- 🔭 I’m currently working on my MSc. of Electrical Engineering with major in Computer Vision and AI.
+- ⚡ Some things I like: 📚 🏃‍ 🤖 🏊‍ 🛩 🧠 🚴🏽‍♂️
 
-I'm doing an internship at Excelerate in Copenhaguen. I'm developing an end-to-end NLP project for summarization.
+Some of my projects:
+
+This last summer (2021) I did an internship at Excelerate in Copenhaguen developing an end-to-end NLP project for summarization.
 - [Carrer Summarizarization](https://github.com/israfelsr/course-summarization)
 
-Ongoing Projects:
+Research Projects:
 - [Vehicle re-Identification](https://github.com/israfelsr/vehicle-re-identification)
+- [Damage Detection]()
 - Data Augmentation and Style Transfer with GANs
 
 You can reach me at:
