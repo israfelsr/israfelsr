@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 📚 I'm interested in reinforcement learning and computer vision. Particularly in their application for motion learning.
-- 🧬 I'm also interested in machine learning applications in biology.
+- 🧬 I'm also interested in machine learning applications in biology and healthcare.
 - 🔭 I’m currently working on my MSc. of Electrical Engineering with major in Computer Vision and AI.
 - ⚡ Some things I like: 📚 🏃‍ 🤖 🏊‍ 🛩 🧠 🚴🏽‍♂️
 
