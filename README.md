@@ -20,7 +20,7 @@ Research Projects:
 - [Damage Detection]()
 - Data Augmentation and Style Transfer with GANs
 
-You can reach me at:
+You can reach me in:
 
 [<img align="left" alt="IsrafelSalazar | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384017.png" />](https://twitter.com/IsrafelSalazar)
 [<img align="left" alt="http://israfelsr.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://israfelsr.github.io/)
