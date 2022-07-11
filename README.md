@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my MSc. of Electrical Engineering with major in Computer Vision and AI.
 - ⚡ Some things I like: 📚 🏃‍ 🤖 🏊‍ 🛩 🧠 🚴🏽‍♂️
 
-Research Projects:
-- [Conditional VAEs for Genomic Offset @Inria]()
-- [Multi-Task Learning with @Coastal KU]()
+Current Research Projects:
+- [Conditional VAEs for Genomic Offset @Inria](https://github.com/israfelsr/deep-genomic)
+- Multi-Task Learning with @Coastal KU
 - [Carrer Summarizarization](https://github.com/israfelsr/course-summarization)
 - [Vehicle re-Identification](https://github.com/israfelsr/vehicle-re-identification)
 - [Damage Detection]()
